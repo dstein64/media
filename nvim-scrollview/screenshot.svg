@@ -23,9 +23,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="0.6381472"
-     inkscape:cx="321.2425"
-     inkscape:cy="-52.495725"
+     inkscape:zoom="0.90247642"
+     inkscape:cx="326.32431"
+     inkscape:cy="92.523193"
      inkscape:window-width="1444"
      inkscape:window-height="1236"
      inkscape:window-x="1414"
@@ -750,6 +750,13 @@
       </symbol>
     </g>
   </defs>
+  <rect
+     style="fill:#ffffff;stroke-width:0.670591"
+     id="rect2914"
+     width="512.125"
+     height="276"
+     x="0"
+     y="0" />
   <path
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="M 0,0 H 30.125 V 12 H 0 Z m 0,0"
