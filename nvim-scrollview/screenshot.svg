@@ -24,12 +24,12 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.90247642"
-     inkscape:cx="326.32431"
-     inkscape:cy="92.523193"
+     inkscape:cx="481.45302"
+     inkscape:cy="144.60212"
      inkscape:window-width="1444"
      inkscape:window-height="1236"
-     inkscape:window-x="1414"
-     inkscape:window-y="14"
+     inkscape:window-x="779"
+     inkscape:window-y="56"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4082" />
   <defs
@@ -1525,7 +1525,7 @@
   </g>
   <path
      style="fill:#b0b0b0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02062"
-     d="m 500.05078,12 h 6.02344 v 12.5 h -6.02344 z m 0,0"
+     d="m 506.05078,12 h 6.02344 v 12.5 h -6.02344 z m 0,0"
      id="path587" />
   <g
      style="fill:#00d785;fill-opacity:1"
@@ -2042,7 +2042,7 @@
   </g>
   <path
      style="fill:#b0b0b0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02062"
-     d="m 500.05078,24 h 6.02344 v 12.5 h -6.02344 z m 0,0"
+     d="m 506.05078,24 h 6.02344 v 12.5 h -6.02344 z m 0,0"
      id="path797" />
   <g
      style="fill:#00d785;fill-opacity:1"
@@ -2568,7 +2568,7 @@
   </g>
   <path
      style="fill:#b0b0b0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02062"
-     d="m 500.05078,36 h 6.02344 v 12.5 h -6.02344 z m 0,0"
+     d="m 506.05078,36 h 6.02344 v 12.5 h -6.02344 z m 0,0"
      id="path1013" />
   <g
      style="fill:#00d785;fill-opacity:1"
@@ -3075,7 +3075,7 @@
   </g>
   <path
      style="fill:#b0b0b0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02062"
-     d="m 500.05078,48 h 6.02344 v 12.5 h -6.02344 z m 0,0"
+     d="m 506.05078,48 h 6.02344 v 12.5 h -6.02344 z m 0,0"
      id="path1219" />
   <g
      style="fill:#00d785;fill-opacity:1"
@@ -3593,12 +3593,12 @@
   </g>
   <path
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 494.02344,60 h 6.02343 v 12 h -6.02343 z m 0,0"
+     d="m 500.02344,60 h 6.02343 v 12 h -6.02343 z m 0,0"
      id="path1431" />
   <g
      style="fill:#149c9c;fill-opacity:1"
      id="g1435"
-     transform="translate(-36,-42)">
+     transform="translate(-30,-42)">
     <use
        xlink:href="#glyph1-2"
        x="530.02502"
@@ -3607,7 +3607,7 @@
   </g>
   <path
      style="fill:#b0b0b0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02062"
-     d="m 500.05078,60 h 6.02344 v 12.5 h -6.02344 z m 0,0"
+     d="m 506.05078,60 h 6.02344 v 12.5 h -6.02344 z m 0,0"
      id="path1437" />
   <g
      style="fill:#000000;fill-opacity:1"
@@ -4122,7 +4122,7 @@
   </g>
   <path
      style="fill:#b0b0b0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 500.05078,72 h 6.02344 v 12 h -6.02344 z m 0,0"
+     d="m 506.05078,72 h 6.02344 v 12 h -6.02344 z m 0,0"
      id="path1647" />
   <g
      style="fill:#00d785;fill-opacity:1"
@@ -4629,12 +4629,12 @@
   </g>
   <path
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 494.02344,84 h 6.02343 v 12 h -6.02343 z m 0,0"
+     d="m 506.02344,84 h 6.02343 v 12 h -6.02343 z m 0,0"
      id="path1853" />
   <g
      style="fill:#3363a3;fill-opacity:1"
      id="g1857"
-     transform="translate(-36,-42)">
+     transform="translate(-24,-42)">
     <use
        xlink:href="#glyph1-3"
        x="530.02502"
@@ -6023,12 +6023,12 @@
   </g>
   <path
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 494.02344,120 h 6.02343 v 12 h -6.02343 z m 0,0"
+     d="m 506.02344,120 h 6.02343 v 12 h -6.02343 z m 0,0"
      id="path2419" />
   <g
      style="fill:#17b017;fill-opacity:1"
      id="g2423"
-     transform="translate(-36,-42)">
+     transform="translate(-24,-42)">
     <use
        xlink:href="#glyph0-52"
        x="530.02502"
@@ -7179,12 +7179,12 @@
   </g>
   <path
      style="fill:#ffd7d7;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 494.02344,156 h 6.02343 v 12 h -6.02343 z m 0,0"
+     d="m 506.02344,156 h 6.02343 v 12 h -6.02343 z m 0,0"
      id="path2885" />
   <g
      style="fill:#000000;fill-opacity:1"
      id="g2889"
-     transform="translate(-36,-42)">
+     transform="translate(-24,-42)">
     <use
        xlink:href="#glyph0-34"
        x="530.02502"
@@ -7725,12 +7725,12 @@
   </g>
   <path
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 494.02344,180 h 6.02343 v 12 h -6.02343 z m 0,0"
+     d="m 506.02344,180 h 6.02343 v 12 h -6.02343 z m 0,0"
      id="path3105" />
   <g
      style="fill:#3363a3;fill-opacity:1"
      id="g3109"
-     transform="translate(-36,-42)">
+     transform="translate(-24,-42)">
     <use
        xlink:href="#glyph0-29"
        x="530.02502"
@@ -9192,7 +9192,7 @@
   <g
      style="fill:#17b017;fill-opacity:1"
      id="g3699"
-     transform="translate(-36,-42)">
+     transform="translate(-24,-42)">
     <use
        xlink:href="#glyph0-52"
        x="530.02502"
